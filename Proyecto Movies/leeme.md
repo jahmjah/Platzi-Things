@@ -1,9 +1,16 @@
 
-tiangechen/movies.csv
- shows you the top gross movies between 2007 and 2011. 
+<h1>Proyecto Movies</h1>
+<h3>Una sencillo proyecto de practica de visualizacion de datos desde fuentes csv con la libreria matplotlib de Python</h3>
+<h2>Jose Alberto Hernandez</h2>
+
+<h2>Origen de datos</h2>
+ Es un archivo csv con datos de peliculas top entre los años 2007 y 2011
+ shows you the top gross movies between 2007 and 2011.
+https://github.com/tiangechen/movies.csv
 https://gist.github.com/tiangechen/b68782efa49a16edaf07dc2cdaa855ea
 
-Agregar títulos en matplotlib con title y set_title
+<h2>Agregar títulos en matplotlib con title y set_title</h2>
+
 Matplotlib permite añadir títulos a los gráficos utilizando la función title o la función set_title. La principal diferencia entre estas dos funciones es que la primera agrega un título para un único gráfico mientras que la segunda permite agregar títulos a varios gráficos de la misma figura. 
 
 plt.title('Título del gráfico', fontsize = 20)
