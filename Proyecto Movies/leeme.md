@@ -1,13 +1,17 @@
 
 <h1>Proyecto Movies</h1>
-<h3>Una sencillo proyecto de practica de visualizacion de datos desde fuentes csv con la libreria matplotlib de Python</h3>
-<h2>Jose Alberto Hernandez</h2>
+<h3>Jose Alberto Hernandez</h3>
 
-<h2>Origen de datos</h2>
+<h2>Resumen</h2>
+Una sencillo proyecto de practica de visualizacion de datos desde fuentes csv con la libreria matplotlib de Python
+
+
+<h2>Origen de movies.csv</h2>
  Es un archivo csv con datos de peliculas top entre los años 2007 y 2011
- shows you the top gross movies between 2007 and 2011.
-https://github.com/tiangechen/movies.csv
-https://gist.github.com/tiangechen/b68782efa49a16edaf07dc2cdaa855ea
+ This file shows you the top gross movies between 2007 and 2011.
+<h3>Todos los creditos son del usuaro tiangechen</h3>
+#https://github.com/tiangechen/movies.csv
+#https://gist.github.com/tiangechen/b68782efa49a16edaf07dc2cdaa855ea
 
 <h2>Agregar títulos en matplotlib con title y set_title</h2>
 
