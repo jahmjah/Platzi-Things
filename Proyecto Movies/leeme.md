@@ -1,10 +1,12 @@
 
 <h1>Proyecto Movies</h1>
-<h3>Jose Alberto Hernandez</h3>
+<h3>Coder: Jose Alberto Hernandez</h3>
 
 <h2>Resumen</h2>
 Una sencillo proyecto de practica de visualizacion de datos desde fuentes csv con la libreria matplotlib de Python
-
+<img src="/images/Figure_2008.png"></img>
+<img src="/images/Figure_2009.png"></img>
+<img src="/images/Figure_20010.png"></img>
 
 <h2>Origen de movies.csv</h2>
  Es un archivo csv con datos de peliculas top entre los años 2007 y 2011
